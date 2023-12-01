@@ -12,19 +12,75 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Jquery",
+    "imageSrc": "skills/jquery.jpg"
+  },
+  {
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Java SE",
+    "imageSrc": "skills/java.jpg"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
+    "title": "MySQL",
+    "imageSrc": "skills/MySQL.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/PHP.png"
+  },
+  {
+    "title": "Symfony",
+    "imageSrc": "skills/Symfony.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.jpg"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/nodejs.png"
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "XD",
+    "imageSrc": "skills/xd.png"
+  },
+  {
+    "title": "Canvas",
+    "imageSrc": "skills/canvas.jpg"
+  },
+  {
+    "title": "Premiere",
+    "imageSrc": "skills/premiere.png"
+  },
+  {
+    "title": "CapCut",
+    "imageSrc": "skills/capcut.png"
+  },
+  {
+    "title": "Filmora",
+    "imageSrc": "skills/filmora.png"
   }
 ]

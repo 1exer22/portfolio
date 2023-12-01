@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Auction Market",
+    "imageSrc": "projects/auction.png",
+    "description": "Il s'agit d'une plateforme d'ecommerce qui propose en plus des ventes aux enchères.",
+    "skills": ["PHP", "BootStrap", "MySQL"],
+    "demo": "https://www.github.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "AGRITRANSCOM",
+    "imageSrc": "projects/green.jpg",
+    "description": "Une application qui repense le secteur de l'approvisionnement entre agriculteurs, transporteurs et commercants.",
+    "skills": ["Dart", "Flutter", "Firebase"],
+    "demo": "https://github.com/1exer22/PPE_301",
+    "source": "https://github.com/1exer22/PPE_301"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Warasse",
+    "imageSrc": "projects/warasse.png",
+    "description": "Une plateforme conviviale qui aide la population a demarrer leurs idées de projet d'entreprenariat.",
+    "skills": ["Django", "PostgreSQL", "Docker"],
+    "demo": "https://www.warasse.com",
+    "source": "https://www.warasse.com"
   }
 ]
